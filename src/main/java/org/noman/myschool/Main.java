@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         var context = new AnnotationConfigApplicationContext(ProjectConfig.class);
 
-        Vehicle vehicleBean = context.getBean(Vehicle.class); //Vehicle.class is the binay file name after compilation of Vechicle.java
+        Vehicle bmwBean = context.getBean("BMW",Vehicle.class); //Vehicle.class is the binay file name after compilation of Vechicle.java
 
 //        ProjectConfig itself becomes a bean in the Spring IoC container!
 
