@@ -9,7 +9,6 @@ public class Main {
     public static void main(String[] args) {
         var context = new AnnotationConfigApplicationContext(ProjectConfig.class);
         Vehicle bean = context.getBean(Vehicle.class);
-        bean.setName("Bmw"); // not recommended way Use @PostConstruct
         System.out.println(bean.getName());
     }
 }
