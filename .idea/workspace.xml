@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f727dac4-ac5e-4fd4-8b0c-2c1759feb270" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/noman/myschool/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/noman/myschool/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/noman/myschool/beans/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/noman/myschool/beans/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/noman/myschool/config/ProjectConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/noman/myschool/config/ProjectConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/noman/myschool/config/ProjectConfig.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -89,7 +89,7 @@
       <workItem from="1737538618423" duration="13000" />
       <workItem from="1737538662910" duration="5547000" />
       <workItem from="1737557351614" duration="738000" />
-      <workItem from="1737602571393" duration="6062000" />
+      <workItem from="1737602571393" duration="6684000" />
     </task>
     <servers />
   </component>
