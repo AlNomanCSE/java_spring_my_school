@@ -1,9 +1,5 @@
 package org.noman.myschool.beans;
 
-import jakarta.annotation.PostConstruct;
-import org.springframework.stereotype.Component;
-
-@Component
 public class Vehicle {
     private String name;
 
@@ -15,11 +11,5 @@ public class Vehicle {
         this.name = name;
     }
 
-    public void printHello() {
-        System.out.println("Hello World");
-    }
-    @PostConstruct
-    public void init() {
-        this.name = "Honda Car 2020";
-    }
+
 }
