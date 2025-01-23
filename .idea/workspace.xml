@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f727dac4-ac5e-4fd4-8b0c-2c1759feb270" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/noman/myschool/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/noman/myschool/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/noman/myschool/beans/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/noman/myschool/beans/Vehicle.java" afterDir="false" />
     </list>
@@ -89,7 +88,7 @@
       <workItem from="1737538618423" duration="13000" />
       <workItem from="1737538662910" duration="5547000" />
       <workItem from="1737557351614" duration="738000" />
-      <workItem from="1737602571393" duration="2955000" />
+      <workItem from="1737602571393" duration="3636000" />
     </task>
     <servers />
   </component>

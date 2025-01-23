@@ -10,5 +10,6 @@ public class Main {
         var context = new AnnotationConfigApplicationContext(ProjectConfig.class);
         Vehicle bean = context.getBean(Vehicle.class);
         System.out.println(bean.getName());
+        context.close();
     }
 }
