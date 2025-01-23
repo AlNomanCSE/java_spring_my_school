@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f727dac4-ac5e-4fd4-8b0c-2c1759feb270" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/noman/myschool/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/noman/myschool/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/noman/myschool/beans/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/noman/myschool/beans/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/noman/myschool/config/ProjectConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/noman/myschool/config/ProjectConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/6.2.0/spring-context-6.2.0-sources.jar!/org/springframework/stereotype/Component.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -39,6 +43,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -48,6 +53,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,11 +87,24 @@
       <option name="presentableId" value="Default" />
       <updated>1737538617296</updated>
       <workItem from="1737538618423" duration="13000" />
-      <workItem from="1737538662910" duration="4580000" />
+      <workItem from="1737538662910" duration="5547000" />
+      <workItem from="1737557351614" duration="738000" />
+      <workItem from="1737602571393" duration="2602000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
